@@ -1,16 +1,20 @@
--Algoritmo: Um algoritmo consiste em um conjunto limitado de instruções realizáveis que têm como objetivo alcançar uma resposta para um específico problema. Em outras palavras, trata-se de um guia que detalha,
+-Algoritmo: Um algoritmo consiste em um conjunto limitado de instruções realizáveis que têm como objetivo alcançar
+uma resposta para um específico problema. Em outras palavras, trata-se de um guia que detalha,
 de forma ordenada, as etapas requeridas para a execução de uma determinada atividade.
 
--Inteligência artificial: A tecnologia possibilita que máquinas e equipamentos eletrônicos executem atividades que costumavam ser executadas apenas por pessoas. E não se restringe apenas a tarefas físicas, 
+-Inteligência artificial: A tecnologia possibilita que máquinas e equipamentos eletrônicos executem atividades que costumavam ser
+executadas apenas por pessoas. E não se restringe apenas a tarefas físicas, 
 sendo capaz de desempenhar também funções que requerem conhecimento especializado.
 
 -Nuvem: A nuvem computacional consiste na disponibilização de diversos serviços de computação, como servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, por meio da internet, com o objetivo de proporcionar inovações ágeis,
 recursos adaptáveis e economias proporcionadas pela ampla escala de utilização.
 
--Dados: De maneira sucinta, dados são representações de algo. Essas representações não necessariamente se limitam a números, podendo ser conceitos ou localizações geográficas. Os dados
+-Dados: De maneira sucinta, dados são representações de algo. Essas representações não necessariamente se limitam a números, 
+podendo ser conceitos ou localizações geográficas. Os dados
 podem ser quantificados por meio de instrumentos de medição, mas também podem ser atribuídos de forma subjetiva.
 
--Servidor: Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente,
+-Servidor: Um servidor é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e,
+ocasionalmente,
 algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD.
 
 
@@ -19,3 +23,33 @@ https://brasilescola.uol.com.br/informatica/inteligencia-artificial.htm#:~:text=
 https://cloud.google.com/learn/what-is-cloud-computing?hl=pt-br#:~:text=Cloud%20Computing%20Foundations%3A-,Defini%C3%A7%C3%A3o%20da%20computa%C3%A7%C3%A3o%20em%20nuvem,pagar%C3%A3o%20apenas%20pelo%20que%20usarem.
 https://escoladedados.org/tutoriais/o-que-sao-dados/#:~:text=Em%20resumo%2C%20dados%20s%C3%A3o%20valores,ser%20atribu%C3%ADdos%20de%20forma%20arbitr%C3%A1ria.
 https://coodesh.com/blog/dicionario/o-que-e-um-servidor/
+
+-Informação: Na área da tecnologia e da informática, a informação consiste na compilação de dados que passaram por processamento em um
+dispositivo eletrônico e que têm a capacidade de fornecer resultados para um projeto específico. Além disso, a informação pode ser considerada como um 
+atributo qualitativo que indica a capacidade de um sistema em comunicar-se com outro.
+
+-Banco de dados:Uma banco de dados é um conjunto organizado de dados estruturados, geralmente armazenados de forma eletrônica em um sistema
+computacional. Geralmente,
+uma banco de dados  é gerenciado  por um sistema de gerenciamento de banco de dados (DBMS).
+
+-Neutralidade da rede; A neutralidade da rede é fundamental para promover a liberdade e a 
+equidade online. Este princípio garante que todos tenham igualdade de condições para acessar e divulgar informações e materiais,
+sem discriminação com base em identidade ou tipo de conteúdo transmitido.
+
+- Processo de negócio: Os processos de negócio consistem nas ações ou no grupo de tarefas executadas 
+por uma empresa com o objetivo de atingir seus objetivos e proporcionar maior benefício ao consumidor. Qualquer empresa interessada em 
+aprimorar sua eficácia de forma contínua e se destacar em relação aos
+concorrentes precisa dominar a gestão de suas operações empresariais.
+
+-Sistema de arquivos: Um sistema de arquivos é uma estrutura usada por um sistema operacional para organizar
+e gerenciar arquivos em um dispositivo de armazenamento, como um disco rígido, unidade de estado sólido (SSD) ou pendrive. Ele define 
+como os dados são armazenados,
+acessados e organizados no dispositivo de armazenamento.
+
+
+Referências: 
+https://www.significados.com.br/informacao/#:~:text=Nas%20%C3%A1reas%20da%20inform%C3%A1tica%20e,que%20pode%20transmitir%20a%20outro.
+https://www.oracle.com/br/database/what-is-database/#:~:text=Um%20banco%20de%20dados%20%C3%A9,banco%20de%20dados%20(DBMS).
+https://www.jusbrasil.com.br/artigos/entenda-de-uma-vez-por-todas-o-conceito-de-neutralidade-da-rede/1839681291#:~:text=De%20acordo%20com%20o%20princ%C3%ADpio,tipo%20de%20conte%C3%BAdo%20ou%20outro.
+https://www.sydle.com/br/blog/processos-de-negocio-60e468a3b25037579719b0dd
+https://www.controle.net/faq/o-que-e-sistema-de-arquivos-file-system#:~:text=Sistema%20de%20arquivo%20(file%20system,gravados%20no%20dispositivo%20de%20armazenamento
