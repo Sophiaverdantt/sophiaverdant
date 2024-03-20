@@ -1,0 +1,41 @@
+A diferença das três linguagens de programação populares: Python, JavaScript e C++ 
+1. Python: 
+-Python é  uma linguagem interpretada e de alto nível, conhecida por sua sintaxe simples e legibilidade. 
+-É amplamnente utilizada em desenvolvimento web, ciência de dados, automação de tarefas e inteligência artificial. 
+
+-Exemplo de código mínimo em Python: 
+#Hello World em Python 
+print ("Hello, world!")
+
+Prova de execução: 
+$ python3 hello.py
+Hello,   world! 
+
+
+2. JavaScript:
+-JavaScript é uma linguagem de programação de alto nível, interpretada e multiplataforma. 
+-É a linguagem padrão para desenvolvimento web, sendo utilizada tanto no lado do cliente (navegador) quanto no lado do servidor (Node.js). 
+
+-Exemplo de código mínimo em JavaScript: 
+\\ Hello World em JavaScript
+console.log ("Hello,  world!)
+
+Prova de execução: 
+$ node hello.js
+Hello, world! 
+
+3. C++:
+- C++ é uma linguagem de programação de médio nível, compilada e amplamente utilizada em sistemas embarcados, jogos, aplicativos de desktop e muito mais. 
+-É conhecido por sua eficiência e desempenho, sendo uma extenção da linguagem  C com suporte a orientação a obejtos. 
+
+-Exemplo de código mínimo em C++: 
+#include <iostream> 
+int main() {
+    \\ Hello World em C++ 
+    std::cout << "Hello,  world!"  << std::end1; return 0: 
+
+  Prova de execução: 
+  $ g++ hello.cpp  -o  hello 
+  $ .\hello 
+  Hello, world! 
+
