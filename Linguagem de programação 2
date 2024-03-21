@@ -1,0 +1,25 @@
+Estão aqui exemplos de uma estrutura de repetição (loop) e uma estrutura de tomada de decisão (if-else) em Python: 
+1.Estrutura de repetição (loop): 
+# Exemplo de um loop while que imprime os números de 1 a 5 
+  numero= 1 
+  while numero <= 5:
+        print(numero)
+        numero += 1 
+
+2.Estrutura de tomada de decisão (if-else): 
+# Exemplo de uma estrutura if-else que verifica se um número é par ou ímpar 
+  numero= 10 
+  if numero %2 == 0: 
+     print ("0 número é par.") 
+   else: 
+      print ("0 número é ímpar.") 
+
+Aqui esá a execução do código: 
+1 
+2
+3
+4
+5
+0 número é par. 
+
+Isso mostra a saída do loop que imprime os números de 1 a 5 e a decisão tomada para verificar se o número 10 é par ou ímpar. 
